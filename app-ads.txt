@@ -1,1 +1,3 @@
+# app-ads.txt — IAB Tech Lab spec
+# Format: <ad system domain>, <seller account ID>, <DIRECT|RESELLER>, <certification authority ID>
 google.com, pub-7735277372641897, DIRECT, f08c47fec0942fa0
